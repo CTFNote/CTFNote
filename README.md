@@ -1,3 +1,5 @@
+## ⚠️ Development stopped, contact [@theS1LV3R](https://github.com/theS1LV3R) for organization name transfer or other questions ⚠️
+
 # CTFNote
 
 About the project! Be it feature suggestions, general feedback, or anything else!
